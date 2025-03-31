@@ -126,6 +126,9 @@ function WeatherApp() {
 					</div>
 				</div>
 			)}
+			<div class="credits">
+    			Coded by Anirudh <a href="https://github.com/PredatorBlue" target="_blank">GitHub</a>
+			</div>
 		</div>
 	);
 }

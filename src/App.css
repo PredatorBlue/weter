@@ -159,3 +159,23 @@ html {
 		height: 90px;
 	}
 }
+
+/* Credits Section */
+.credits {
+    margin-top: 20px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #004d40;
+}
+
+.credits a {
+    text-decoration: none;
+    color: #00796b;
+    font-weight: bold;
+    margin-left: 5px;
+    transition: color 0.3s ease-in-out;
+}
+
+.credits a:hover {
+    color: #004d40;
+}
